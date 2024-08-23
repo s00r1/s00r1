@@ -1,0 +1,16 @@
+Package: com.level3tjg.spotifyloginfix
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Installed-Size: 264
+Depends: mobilesubstrate | firmware (>=7.0)
+Filename: ./debs/com.level3tjg.spotifyloginfix_0.0.1_iphoneos-arm.deb
+Size: 3776
+MD5sum: 66361905dd6e85d5be2af328b2c648e6
+SHA1: 5065a25f37f93a546facd4dd3975e6477c4c2c56
+SHA256: 3ed3870932d7ba86dd1e626f7e5907a838feb0a597f64f0df9d831824d65b528
+Section: Tweaks
+Description: Fix Spotify login errors on old versions
+Author: level3tjg
+Name: Spotify Login Fix
+
