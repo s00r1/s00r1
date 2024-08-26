@@ -1,0 +1,10 @@
+Origin: s00r1
+Label: s00r1 Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64 arm64e
+Components: main
+Description: s00r1 Repository for iOS Tweaks
+SileoIcon: https://s00r1.github.io/s00r1/CydiaIcon.png
+SileoBanner: https://s00r1.github.io/s00r1/SileoBanner.png
