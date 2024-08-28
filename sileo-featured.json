@@ -1,0 +1,13 @@
+{
+    "class": "FeaturedBannersView",
+    "itemSize": "{263, 148}",
+    "itemCornerRadius": 10,
+    "banners": [
+        {
+            "url": "https://raw.githubusercontent.com/s00r1/s00r1/main/assets/tonimage.png",
+            "title": "s00r1 repo",
+            "package": "com.tonbundle.id",
+            "hideShadow": false
+        }
+    ]
+}
